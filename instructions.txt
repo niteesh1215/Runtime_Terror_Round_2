@@ -1,0 +1,48 @@
+General Instructions:
+  * Duration : 1h
+  * Incase of tie time will be taken into consideration (faster the better).
+  * Malpractice will lead to disqualification from the event.
+  * Judges decision will be final and binding to all.
+  * If you're getting the correct output call the invigilator to verify the output.
+  * Make sure you sign the attendance sheet before leaving.
+  * Make sure that you read and follow the instructions given below carefully.
+
+
+1. Fork this project
+2. Clone the forked project
+3. You'll find two files
+    i. Q1.c
+    ii. Q2.java
+   Create a folder with your roll number on desktop and copy these files in it.
+
+4. Fill the details and answer the questions: 
+********************************************************************************
+Full Name:
+Class(First Year/ Second Year): 
+Roll No: 
+
+what is the git command to clone ?
+Ans : 
+
+what is the git command to commit ?
+Ans :
+
+What is the git command to push ?
+Ans : 
+
+********************************************************************************
+
+5. Save this file
+6. Commit changes
+7. Push the changes
+8. Raise Pull request 
+
+9. You need to debug Q1 and Q2 programs copied in the folder on desktop
+10. Mail the debugged programs to manoevure2021runtimeterror@gmail.com <<--------------
+
+11. Optional:
+    You can use online compiler for debugging if not available on your system
+    c : https://www.onlinegdb.com/online_c_compiler
+
+    java : https://www.onlinegdb.com/online_java_compiler
+    
