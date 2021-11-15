@@ -13,7 +13,7 @@ General Instructions:
 3. You'll find two files
     i. Q1.c
     ii. Q2.java
-   Create a folder with your roll number on desktop and copy these files in it.
+   Create a folder with your roll number on the desktop and copy these files in it.
 
 4. Fill the details and answer the questions: 
 ********************************************************************************
@@ -37,11 +37,11 @@ Ans :
 7. Push the changes
 8. Raise Pull request 
 
-9. You need to debug Q1 and Q2 programs copied in the folder on desktop
+9. You need to debug Q1 and Q2 programs copied in the folder on the desktop
 10. Mail the debugged programs to manoevure2021runtimeterror@gmail.com <<--------------
 
 11. Optional:
-    You can use online compiler for debugging if not available on your system
+    You can use an online compiler for debugging if not available on your system
     c : https://www.onlinegdb.com/online_c_compiler
 
     java : https://www.onlinegdb.com/online_java_compiler
