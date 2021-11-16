@@ -17,18 +17,18 @@ General Instructions:
 
 4. Fill the details and answer the questions: 
 ********************************************************************************
-Full Name:
-Class(First Year/ Second Year): 
-Roll No: 
+Full Name: Sukanya Chowdhury
+Class(First Year/ Second Year): Second year
+Roll No: 20CS801034
 
 what is the git command to clone ?
-Ans : 
+Ans : git clone
 
 what is the git command to commit ?
-Ans :
+Ans : git commit -m "filename"
 
 What is the git command to push ?
-Ans : 
+Ans : git push object manual
 
 ********************************************************************************
 
