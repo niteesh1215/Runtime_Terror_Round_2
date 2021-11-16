@@ -23,12 +23,12 @@ int main()
 
     int count = 0;
 
-    while (n == 0)
+    while (n != 0)
     {
-        int r = n / 10;
-        if (r > 1)
+        int r = n % 2;
+        if (r == 1)
             count++;
-        n = n * 10;
+        n = n / 2;
     }
 
     printf("no of bits those are 1 ");
