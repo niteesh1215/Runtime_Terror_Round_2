@@ -49,7 +49,10 @@ class Student {
 
         @Override
         public int compare(Student e1, Student e2) {
-            return (int) (e1.getpercentage() + e2.getpercentage());
+            if (e1.getpercentage() < e2.getpercentage())
+                return (int)e1.getpercentage();
+            else
+                return (int)e2.getpercentage();
         }
     };
 
@@ -57,7 +60,10 @@ class Student {
 
         @Override
         public int compare(Student e1, Student e2) {
-            return  e2.getAge() - e1.getAge();
+            if (e1.getAge() < e2.getAge())
+                return e1.getAge();
+            else
+                return e2.getAge();
         }
     };
 
